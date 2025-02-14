@@ -1,6 +1,3 @@
-# Seed & Coortex - Full Stack Developer Challenge
-Desafio para você que quer trabalhar conosco!
-
 ## Instruções
 
 <ol>
@@ -78,11 +75,3 @@ Em ordem, os principais pontos que serão avaliados ao submeter o desafio:
 6. **Documentação e comentários:** Será avaliada a clareza da documentação e dos comentários presentes no código, que devem auxiliar na compreensão e manutenção do sistema.
 7. **Bônus:** Os recursos bônus implementados serão avaliados de acordo com a qualidade, a eficiência e a funcionalidade adicionada à aplicação.
 
-<br/>
-
-#### Em caso de dúvidas, abra uma [issue](https://github.com/Admin-Seed/dev-challenge/issues). ;)
-
-<br/>
-
-#### Até logo e bom trabalho!
-Seed & Coortex team
