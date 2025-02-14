@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "nzzogA7lBp3Qu5rxUSZfJ6INx7WaItEhMpIeH+9yuTw=",
+  "Source": "MultiSearchAPI",
+  "BasePath": "_content/MultiSearchAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MultiSearchAPI\\wwwroot",
+      "Source": "MultiSearchAPI",
+      "ContentRoot": "C:\\Users\\ROBOTEASY12\\Documents\\dev-challenge\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\",
+      "BasePath": "_content/MultiSearchAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ROBOTEASY12\\Documents\\dev-challenge\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\index.html",
+      "SourceId": "MultiSearchAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROBOTEASY12\\Documents\\dev-challenge\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\",
+      "BasePath": "_content/MultiSearchAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
