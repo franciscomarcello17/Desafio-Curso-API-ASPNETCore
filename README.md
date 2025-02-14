@@ -4,7 +4,6 @@
   <li>Clone este repositório</li>
   <li>Seu objetivo principal é transformar o desafio em um protótipo funcional.</li>
   <li>Crie um diretório chamado src no projeto e coloque todos os arquivos que você criar dentro dessa pasta.</li>
-  <li>Após concluir o desafio, envie o código por e-mail para a pessoa do time que lhe forneceu as instruções.</li>
 </ol>
 
 ## Desafio
@@ -16,7 +15,6 @@
 
   O MultiSearch irá pesquisar em todas essas tabelas e mostrar os dados agrupados.
 
-  O desafio foi dividido em duas partes principais para avaliar suas habilidades de Full Stack.
 </p>
 
 ## Frontend
@@ -59,19 +57,17 @@ Assim:
 - O backend retornará uma lista dos resultados encontrados.
 - O frontend exibirá os resultados agrupados por tipo de objeto.
 
-##  Dicas?
-
-Foque nas funcionalidades principais do desafio.
-
-Keep it Simple!  :)
-
 ## O que será avaliado
-Em ordem, os principais pontos que serão avaliados ao submeter o desafio:
-1. **Código limpo e organizado:** Avaliaremos a estrutura do código, a legibilidade e a clareza das nomenclaturas, a consistência na utilização de boas práticas de programação e a organização dos arquivos e pastas.
-2. **Funcionalidade:** Verificaremos se a aplicação atende aos requisitos solicitados no desafio, como a busca correta dos objetos no backend, a exibição adequada dos resultados no frontend e a correta agrupação dos objetos.
-3. **Qualidade do código:** Analisaremos a qualidade do código em relação à eficiência, escalabilidade, segurança e manutenibilidade. Também observaremos o tratamento de erros e exceções de forma adequada.
-4. **Boas práticas de desenvolvimento:** Serão avaliadas as boas práticas de desenvolvimento, como a modularização do código, a utilização adequada de bibliotecas e frameworks, e a implementação de um design responsivo e amigável.
-5. **Conhecimento das tecnologias utilizadas:** Observaremos o conhecimento e a utilização adequada das tecnologias solicitadas, como AngularJS (ou outra opção), ASP.NET (ou Node.js) e outras bibliotecas/frameworks relacionadas.
-6. **Documentação e comentários:** Será avaliada a clareza da documentação e dos comentários presentes no código, que devem auxiliar na compreensão e manutenção do sistema.
-7. **Bônus:** Os recursos bônus implementados serão avaliados de acordo com a qualidade, a eficiência e a funcionalidade adicionada à aplicação.
 
+<details>
+  <summary>🔽</summary>
+
+1. **Código limpo e organizado:** Avaliaremos a estrutura do código, a legibilidade e a clareza das nomenclaturas, a consistência na utilização de boas práticas de programação e a organização dos arquivos e pastas.  
+2. **Funcionalidade:** Verificaremos se a aplicação atende aos requisitos solicitados no desafio, como a busca correta dos objetos no backend, a exibição adequada dos resultados no frontend e a correta agrupação dos objetos.  
+3. **Qualidade do código:** Analisaremos a qualidade do código em relação à eficiência, escalabilidade, segurança e manutenibilidade. Também observaremos o tratamento de erros e exceções de forma adequada.  
+4. **Boas práticas de desenvolvimento:** Serão avaliadas as boas práticas de desenvolvimento, como a modularização do código, a utilização adequada de bibliotecas e frameworks, e a implementação de um design responsivo e amigável.  
+5. **Conhecimento das tecnologias utilizadas:** Observaremos o conhecimento e a utilização adequada das tecnologias solicitadas, como AngularJS (ou outra opção), ASP.NET (ou Node.js) e outras bibliotecas/frameworks relacionadas.  
+6. **Documentação e comentários:** Será avaliada a clareza da documentação e dos comentários presentes no código, que devem auxiliar na compreensão e manutenção do sistema.  
+7. **Bônus:** Os recursos bônus implementados serão avaliados de acordo com a qualidade, a eficiência e a funcionalidade adicionada à aplicação.  
+
+</details>
