@@ -71,3 +71,4 @@ C:\Users\franc\Documents\GitHub\Desafio-Curso-API-ASPNETCore\src\MultiSearchAPI\
 C:\Users\franc\Documents\GitHub\Desafio-Curso-API-ASPNETCore\src\MultiSearchAPI\MultiSearchAPI\obj\Debug\net8.0\MultiSearchAPI.pdb
 C:\Users\franc\Documents\GitHub\Desafio-Curso-API-ASPNETCore\src\MultiSearchAPI\MultiSearchAPI\obj\Debug\net8.0\MultiSearchAPI.genruntimeconfig.cache
 C:\Users\franc\Documents\GitHub\Desafio-Curso-API-ASPNETCore\src\MultiSearchAPI\MultiSearchAPI\obj\Debug\net8.0\ref\MultiSearchAPI.dll
+C:\Users\franc\Documents\GitHub\Desafio-Curso-API-ASPNETCore\src\MultiSearchAPI\MultiSearchAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
