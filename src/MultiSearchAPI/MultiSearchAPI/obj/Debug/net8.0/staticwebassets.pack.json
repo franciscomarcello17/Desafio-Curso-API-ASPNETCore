@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\data\\workforce.json"
     },
     {
+      "Id": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\img\\logo_multisearch.png",
+      "PackagePath": "staticwebassets\\img\\logo_multisearch.png"
+    },
+    {
       "Id": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
