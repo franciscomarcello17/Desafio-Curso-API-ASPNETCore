@@ -1,8 +1,36 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ROBOTEASY12\\Documents\\dev-challenge\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\index.html",
+      "Id": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\README.md",
+      "PackagePath": "staticwebassets\\data\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\equipments.json",
+      "PackagePath": "staticwebassets\\data\\equipments.json"
+    },
+    {
+      "Id": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\materials.json",
+      "PackagePath": "staticwebassets\\data\\materials.json"
+    },
+    {
+      "Id": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\purchase_orders.json",
+      "PackagePath": "staticwebassets\\data\\purchase_orders.json"
+    },
+    {
+      "Id": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\sales_orders.json",
+      "PackagePath": "staticwebassets\\data\\sales_orders.json"
+    },
+    {
+      "Id": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\workforce.json",
+      "PackagePath": "staticwebassets\\data\\workforce.json"
+    },
+    {
+      "Id": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MultiSearchAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MultiSearchAPI.Microsoft.AspNetCore.StaticWebAssets.props",

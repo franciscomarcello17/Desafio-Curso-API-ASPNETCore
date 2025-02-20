@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nzzogA7lBp3Qu5rxUSZfJ6INx7WaItEhMpIeH+9yuTw=",
+  "Hash": "cRrLiIcGJodAhgSXBp5vDO4bqmWK+0L215/rNAA6Pfg=",
   "Source": "MultiSearchAPI",
   "BasePath": "_content/MultiSearchAPI",
   "Mode": "Default",
@@ -10,30 +10,734 @@
     {
       "Name": "MultiSearchAPI\\wwwroot",
       "Source": "MultiSearchAPI",
-      "ContentRoot": "C:\\Users\\ROBOTEASY12\\Documents\\dev-challenge\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\",
       "BasePath": "_content/MultiSearchAPI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ROBOTEASY12\\Documents\\dev-challenge\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\equipments.json",
       "SourceId": "MultiSearchAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROBOTEASY12\\Documents\\dev-challenge\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\",
       "BasePath": "_content/MultiSearchAPI",
-      "RelativePath": "index.html",
+      "RelativePath": "data/equipments#[.{fingerprint}]?.json",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "vtogyd1vm4",
+      "Integrity": "TZgjx07ZTpyslepprlwc+Ljfhffs1MmLnx3VMxsy3yk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\equipments.json"
+    },
+    {
+      "Identity": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\materials.json",
+      "SourceId": "MultiSearchAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\",
+      "BasePath": "_content/MultiSearchAPI",
+      "RelativePath": "data/materials#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2rp6afwyz0",
+      "Integrity": "3i2+4vxc7aJk2vTuqMn+Lrr6YmdzCDXuwHG87GmLnMI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\materials.json"
+    },
+    {
+      "Identity": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\purchase_orders.json",
+      "SourceId": "MultiSearchAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\",
+      "BasePath": "_content/MultiSearchAPI",
+      "RelativePath": "data/purchase_orders#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yq5rhlqsvf",
+      "Integrity": "JuV3NlywnA6O4ahN1Q0zP76qtwpFM7n3UUSDbdw+bxY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\purchase_orders.json"
+    },
+    {
+      "Identity": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\README.md",
+      "SourceId": "MultiSearchAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\",
+      "BasePath": "_content/MultiSearchAPI",
+      "RelativePath": "data/README#[.{fingerprint}]?.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "64ee1dfn1n",
+      "Integrity": "ChzbigJHVtvypJUI53sNOLjS+jF77hSMhu73NmeV6Bk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\README.md"
+    },
+    {
+      "Identity": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\sales_orders.json",
+      "SourceId": "MultiSearchAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\",
+      "BasePath": "_content/MultiSearchAPI",
+      "RelativePath": "data/sales_orders#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wxktmmvjcr",
+      "Integrity": "RK2MvKs8x/k7V6EvWVaEQXMdWOYrdvyx2M3kiPelb9A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\sales_orders.json"
+    },
+    {
+      "Identity": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\workforce.json",
+      "SourceId": "MultiSearchAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\",
+      "BasePath": "_content/MultiSearchAPI",
+      "RelativePath": "data/workforce#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "84vuzqj6vp",
+      "Integrity": "+Ks93WyC6Y3GzMjXvuDSz2ZcYU6xZocGGzDmKigJPWA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\workforce.json"
+    },
+    {
+      "Identity": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\index.html",
+      "SourceId": "MultiSearchAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\",
+      "BasePath": "_content/MultiSearchAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mg4a6doguq",
+      "Integrity": "Fs8uzglIqi42SM6Y+div4ztFtqvuh2xTWMD88ILgc1s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "data/equipments.json",
+      "AssetFile": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\equipments.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TZgjx07ZTpyslepprlwc+Ljfhffs1MmLnx3VMxsy3yk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:55:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TZgjx07ZTpyslepprlwc+Ljfhffs1MmLnx3VMxsy3yk="
+        }
+      ]
+    },
+    {
+      "Route": "data/equipments.vtogyd1vm4.json",
+      "AssetFile": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\equipments.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TZgjx07ZTpyslepprlwc+Ljfhffs1MmLnx3VMxsy3yk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:55:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vtogyd1vm4"
+        },
+        {
+          "Name": "label",
+          "Value": "data/equipments.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TZgjx07ZTpyslepprlwc+Ljfhffs1MmLnx3VMxsy3yk="
+        }
+      ]
+    },
+    {
+      "Route": "data/materials.2rp6afwyz0.json",
+      "AssetFile": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\materials.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3i2+4vxc7aJk2vTuqMn+Lrr6YmdzCDXuwHG87GmLnMI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:55:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2rp6afwyz0"
+        },
+        {
+          "Name": "label",
+          "Value": "data/materials.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3i2+4vxc7aJk2vTuqMn+Lrr6YmdzCDXuwHG87GmLnMI="
+        }
+      ]
+    },
+    {
+      "Route": "data/materials.json",
+      "AssetFile": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\materials.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3i2+4vxc7aJk2vTuqMn+Lrr6YmdzCDXuwHG87GmLnMI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:55:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3i2+4vxc7aJk2vTuqMn+Lrr6YmdzCDXuwHG87GmLnMI="
+        }
+      ]
+    },
+    {
+      "Route": "data/purchase_orders.json",
+      "AssetFile": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\purchase_orders.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JuV3NlywnA6O4ahN1Q0zP76qtwpFM7n3UUSDbdw+bxY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:55:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JuV3NlywnA6O4ahN1Q0zP76qtwpFM7n3UUSDbdw+bxY="
+        }
+      ]
+    },
+    {
+      "Route": "data/purchase_orders.yq5rhlqsvf.json",
+      "AssetFile": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\purchase_orders.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JuV3NlywnA6O4ahN1Q0zP76qtwpFM7n3UUSDbdw+bxY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:55:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yq5rhlqsvf"
+        },
+        {
+          "Name": "label",
+          "Value": "data/purchase_orders.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JuV3NlywnA6O4ahN1Q0zP76qtwpFM7n3UUSDbdw+bxY="
+        }
+      ]
+    },
+    {
+      "Route": "data/README.64ee1dfn1n.md",
+      "AssetFile": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ChzbigJHVtvypJUI53sNOLjS+jF77hSMhu73NmeV6Bk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:55:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "64ee1dfn1n"
+        },
+        {
+          "Name": "label",
+          "Value": "data/README.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ChzbigJHVtvypJUI53sNOLjS+jF77hSMhu73NmeV6Bk="
+        }
+      ]
+    },
+    {
+      "Route": "data/README.md",
+      "AssetFile": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ChzbigJHVtvypJUI53sNOLjS+jF77hSMhu73NmeV6Bk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:55:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ChzbigJHVtvypJUI53sNOLjS+jF77hSMhu73NmeV6Bk="
+        }
+      ]
+    },
+    {
+      "Route": "data/sales_orders.json",
+      "AssetFile": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\sales_orders.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RK2MvKs8x/k7V6EvWVaEQXMdWOYrdvyx2M3kiPelb9A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:55:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RK2MvKs8x/k7V6EvWVaEQXMdWOYrdvyx2M3kiPelb9A="
+        }
+      ]
+    },
+    {
+      "Route": "data/sales_orders.wxktmmvjcr.json",
+      "AssetFile": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\sales_orders.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RK2MvKs8x/k7V6EvWVaEQXMdWOYrdvyx2M3kiPelb9A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:55:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wxktmmvjcr"
+        },
+        {
+          "Name": "label",
+          "Value": "data/sales_orders.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RK2MvKs8x/k7V6EvWVaEQXMdWOYrdvyx2M3kiPelb9A="
+        }
+      ]
+    },
+    {
+      "Route": "data/workforce.84vuzqj6vp.json",
+      "AssetFile": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\workforce.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2060"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Ks93WyC6Y3GzMjXvuDSz2ZcYU6xZocGGzDmKigJPWA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:55:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "84vuzqj6vp"
+        },
+        {
+          "Name": "label",
+          "Value": "data/workforce.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Ks93WyC6Y3GzMjXvuDSz2ZcYU6xZocGGzDmKigJPWA="
+        }
+      ]
+    },
+    {
+      "Route": "data/workforce.json",
+      "AssetFile": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\workforce.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2060"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Ks93WyC6Y3GzMjXvuDSz2ZcYU6xZocGGzDmKigJPWA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 08:55:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Ks93WyC6Y3GzMjXvuDSz2ZcYU6xZocGGzDmKigJPWA="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fs8uzglIqi42SM6Y+div4ztFtqvuh2xTWMD88ILgc1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 13:20:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fs8uzglIqi42SM6Y+div4ztFtqvuh2xTWMD88ILgc1s="
+        }
+      ]
+    },
+    {
+      "Route": "index.mg4a6doguq.html",
+      "AssetFile": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fs8uzglIqi42SM6Y+div4ztFtqvuh2xTWMD88ILgc1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 13:20:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mg4a6doguq"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fs8uzglIqi42SM6Y+div4ztFtqvuh2xTWMD88ILgc1s="
+        }
+      ]
     }
   ]
 }

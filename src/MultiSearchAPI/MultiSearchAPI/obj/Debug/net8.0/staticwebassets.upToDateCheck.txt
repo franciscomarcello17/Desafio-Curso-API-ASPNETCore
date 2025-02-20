@@ -1,0 +1,7 @@
+wwwroot\data\equipments.json
+wwwroot\data\materials.json
+wwwroot\data\purchase_orders.json
+wwwroot\data\README.md
+wwwroot\data\sales_orders.json
+wwwroot\data\workforce.json
+wwwroot\index.html
