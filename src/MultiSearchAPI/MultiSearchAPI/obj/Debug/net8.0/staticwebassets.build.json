@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cRrLiIcGJodAhgSXBp5vDO4bqmWK+0L215/rNAA6Pfg=",
+  "Hash": "MMGky+SVRLEqUiEuUwbyvderQ4Nvx7xhNNVFO1OjhNE=",
   "Source": "MultiSearchAPI",
   "BasePath": "_content/MultiSearchAPI",
   "Mode": "Default",
@@ -157,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mg4a6doguq",
-      "Integrity": "Fs8uzglIqi42SM6Y+div4ztFtqvuh2xTWMD88ILgc1s=",
+      "Fingerprint": "52ojjz91v5",
+      "Integrity": "c9CdRsUvb+OvxP51RqNLjyHHpeVxffkZMtqb5ECQe8w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -658,6 +658,51 @@
       ]
     },
     {
+      "Route": "index.52ojjz91v5.html",
+      "AssetFile": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c9CdRsUvb+OvxP51RqNLjyHHpeVxffkZMtqb5ECQe8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 14:00:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "52ojjz91v5"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c9CdRsUvb+OvxP51RqNLjyHHpeVxffkZMtqb5ECQe8w="
+        }
+      ]
+    },
+    {
       "Route": "index.html",
       "AssetFile": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\index.html",
       "Selectors": [],
@@ -668,7 +713,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5958"
+          "Value": "2307"
         },
         {
           "Name": "Content-Type",
@@ -676,11 +721,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fs8uzglIqi42SM6Y+div4ztFtqvuh2xTWMD88ILgc1s=\""
+          "Value": "\"c9CdRsUvb+OvxP51RqNLjyHHpeVxffkZMtqb5ECQe8w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 13:20:03 GMT"
+          "Value": "Thu, 20 Feb 2025 14:00:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -690,52 +735,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Fs8uzglIqi42SM6Y+div4ztFtqvuh2xTWMD88ILgc1s="
-        }
-      ]
-    },
-    {
-      "Route": "index.mg4a6doguq.html",
-      "AssetFile": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5958"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Fs8uzglIqi42SM6Y+div4ztFtqvuh2xTWMD88ILgc1s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 13:20:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mg4a6doguq"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Fs8uzglIqi42SM6Y+div4ztFtqvuh2xTWMD88ILgc1s="
+          "Value": "sha256-c9CdRsUvb+OvxP51RqNLjyHHpeVxffkZMtqb5ECQe8w="
         }
       ]
     }
