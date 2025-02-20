@@ -35,7 +35,6 @@ C:\Users\ROBOTEASY12\Documents\dev-challenge\src\MultiSearchAPI\MultiSearchAPI\o
 C:\Users\ROBOTEASY12\Documents\dev-challenge\src\MultiSearchAPI\MultiSearchAPI\bin\Debug\net8.0\MultiSearchAPI.staticwebassets.runtime.json
 C:\Users\franc\Documents\GitHub\Desafio-Curso-API-ASPNETCore\src\MultiSearchAPI\MultiSearchAPI\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\franc\Documents\GitHub\Desafio-Curso-API-ASPNETCore\src\MultiSearchAPI\MultiSearchAPI\bin\Debug\net8.0\appsettings.json
-C:\Users\franc\Documents\GitHub\Desafio-Curso-API-ASPNETCore\src\MultiSearchAPI\MultiSearchAPI\bin\Debug\net8.0\produtos.json
 C:\Users\franc\Documents\GitHub\Desafio-Curso-API-ASPNETCore\src\MultiSearchAPI\MultiSearchAPI\bin\Debug\net8.0\MultiSearchAPI.staticwebassets.runtime.json
 C:\Users\franc\Documents\GitHub\Desafio-Curso-API-ASPNETCore\src\MultiSearchAPI\MultiSearchAPI\bin\Debug\net8.0\MultiSearchAPI.staticwebassets.endpoints.json
 C:\Users\franc\Documents\GitHub\Desafio-Curso-API-ASPNETCore\src\MultiSearchAPI\MultiSearchAPI\bin\Debug\net8.0\MultiSearchAPI.exe
@@ -72,3 +71,4 @@ C:\Users\franc\Documents\GitHub\Desafio-Curso-API-ASPNETCore\src\MultiSearchAPI\
 C:\Users\franc\Documents\GitHub\Desafio-Curso-API-ASPNETCore\src\MultiSearchAPI\MultiSearchAPI\obj\Debug\net8.0\MultiSearchAPI.pdb
 C:\Users\franc\Documents\GitHub\Desafio-Curso-API-ASPNETCore\src\MultiSearchAPI\MultiSearchAPI\obj\Debug\net8.0\MultiSearchAPI.genruntimeconfig.cache
 C:\Users\franc\Documents\GitHub\Desafio-Curso-API-ASPNETCore\src\MultiSearchAPI\MultiSearchAPI\obj\Debug\net8.0\ref\MultiSearchAPI.dll
+C:\Users\franc\Documents\GitHub\Desafio-Curso-API-ASPNETCore\src\MultiSearchAPI\MultiSearchAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll

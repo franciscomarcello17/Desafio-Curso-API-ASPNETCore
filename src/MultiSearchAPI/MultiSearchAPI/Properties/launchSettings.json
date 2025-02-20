@@ -9,20 +9,12 @@
     }
   },
   "profiles": {
-    "Swagger": {
+    "MultiSearchAPI": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "launchUrl": "swagger",
-      "applicationUrl": "http://localhost:5099",
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
-    },
-    "Index": {
-      "commandName": "IISExpress",
-      "launchBrowser": true,
       "launchUrl": "index.html",
+      "applicationUrl": "http://localhost:5099",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\README.md",
-      "PackagePath": "staticwebassets\\data\\README.md"
-    },
-    {
       "Id": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\data\\equipments.json",
       "PackagePath": "staticwebassets\\data\\equipments.json"
     },
@@ -25,8 +21,20 @@
       "PackagePath": "staticwebassets\\data\\workforce.json"
     },
     {
+      "Id": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\img\\logo_multisearch.png",
+      "PackagePath": "staticwebassets\\img\\logo_multisearch.png"
+    },
+    {
       "Id": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\wwwroot\\styles\\styles.css",
+      "PackagePath": "staticwebassets\\styles\\styles.css"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MultiSearchAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
