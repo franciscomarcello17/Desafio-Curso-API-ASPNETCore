@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8F8EE8-0126-4F62-BD41-F03451344BAE}|MultiSearchAPI\\MultiSearchAPI.csproj|c:\\users\\franc\\documents\\github\\desafio-curso-api-aspnetcore\\src\\multisearchapi\\multisearchapi\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8F8EE8-0126-4F62-BD41-F03451344BAE}|MultiSearchAPI\\MultiSearchAPI.csproj|solutionrelative:multisearchapi\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8F8EE8-0126-4F62-BD41-F03451344BAE}|MultiSearchAPI\\MultiSearchAPI.csproj|c:\\users\\franc\\documents\\github\\desafio-curso-api-aspnetcore\\src\\multisearchapi\\multisearchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8F8EE8-0126-4F62-BD41-F03451344BAE}|MultiSearchAPI\\MultiSearchAPI.csproj|solutionrelative:multisearchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "MultiSearchAPI\\Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "MultiSearchAPI\\Controllers\\SearchController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowD4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:18:30.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MultiSearchAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\Documents\\GitHub\\Desafio-Curso-API-ASPNETCore\\src\\MultiSearchAPI\\MultiSearchAPI\\Program.cs",
+              "RelativeToolTip": "MultiSearchAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:18:21.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
